@@ -35,7 +35,7 @@ function Navbar() {
         <NavLink to="/">
           <div className="home nav"><img className="menuIcon navImg" src="image/Cal.png"></img>일정</div>
         </NavLink>
-        <NavLink to="/">
+        <NavLink to="/notice">
           <div className="home nav"><img className="menuIcon navImg" src="image/Board.png"></img>게시판</div>
         </NavLink>
         <NavLink to="/">
